@@ -1,4 +1,4 @@
-public interface Iterator {
+public interface Iterator<Item> {
     abstract boolean hasNext();
-    abstract boolean next();
+    abstract Item  next();
 }
