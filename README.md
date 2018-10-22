@@ -5,3 +5,5 @@ notes of Graphic Design Patterns.
 [Iterator](https://github.com/Andrewpqc/design-patterns/tree/master/iterator/src)
 
 [Adapter](https://github.com/Andrewpqc/design-patterns/tree/master/adapter/src)
+
+[Template Method](https://github.com/Andrewpqc/design-patterns/tree/master/template-method/src)
