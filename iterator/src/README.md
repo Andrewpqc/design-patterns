@@ -6,8 +6,8 @@ Iterator iterator()
 
 **Iterator** :迭代器接口，有下面的api
 ``` java
-abstract boolean hasNext();
-abstract Item  next();
+boolean hasNext();
+Object  next();
 ```
 
 **BookShelfIterator** :具体的一个迭代器，实现了Iterator接口
