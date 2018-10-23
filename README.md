@@ -9,3 +9,5 @@ notes of Graphic Design Patterns.
 [Template Method](https://github.com/Andrewpqc/design-patterns/tree/master/template-method/src)
 
 [Factory Method](https://github.com/Andrewpqc/design-patterns/tree/master/factory-method/src)
+
+[Singleton](https://github.com/Andrewpqc/design-patterns/tree/master/singleton/src) 
