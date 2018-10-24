@@ -24,4 +24,4 @@ public final Product create(String owner) {
 
 **idcard.IDCardFactory** :framework.Factory类的子类，实现了`createProduct()`、`registerProduct()`方法
 
-**Main** :测试代码
+**Main** : 测试代码
