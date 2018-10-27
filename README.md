@@ -11,3 +11,9 @@ notes of Graphic Design Patterns.
 [Factory Method](https://github.com/Andrewpqc/design-patterns/tree/master/factory-method/src)
 
 [Singleton](https://github.com/Andrewpqc/design-patterns/tree/master/singleton/src) 
+
+[Prototype](https://github.com/Andrewpqc/design-patterns/tree/master/prototype/src) 
+
+[Builder](https://github.com/Andrewpqc/design-patterns/tree/master/builder/src) 
+
+[Abstract Factory](https://github.com/Andrewpqc/design-patterns/tree/master/abstract-factory/src) 

@@ -31,7 +31,7 @@ public class Main {
         traysearch.add(excite);
         traysearch.add(google);
 
-        Page page = factory.createPage("LinkPage", "杨文轩");
+        Page page = factory.createPage("LinkPage", "Andrewpqc");
         page.add(traynews);
         page.add(traysearch);
         page.output();
