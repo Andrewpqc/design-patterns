@@ -17,3 +17,5 @@ notes of Graphic Design Patterns.
 [Builder](https://github.com/Andrewpqc/design-patterns/tree/master/builder/src) 
 
 [Abstract Factory](https://github.com/Andrewpqc/design-patterns/tree/master/abstract-factory/src) 
+
+[Bridge](https://github.com/Andrewpqc/design-patterns/tree/master/bridge/src) 
