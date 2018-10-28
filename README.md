@@ -19,3 +19,7 @@ notes of Graphic Design Patterns.
 [Abstract Factory](https://github.com/Andrewpqc/design-patterns/tree/master/abstract-factory/src) 
 
 [Bridge](https://github.com/Andrewpqc/design-patterns/tree/master/bridge/src) 
+
+[Strategy](https://github.com/Andrewpqc/design-patterns/tree/master/strategy/src) 
+
+[Composite](https://github.com/Andrewpqc/design-patterns/tree/master/composite/src) 
